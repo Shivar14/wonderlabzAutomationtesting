@@ -32,4 +32,4 @@ Secondly - We need to add dependencies to the POM.xml file. We need to add three
 
 Once these are added, you can then clone the github repo, and proceed to running the tests. 
 The repo to clone is - (gh repo clone Shivar14/wonderlabzAutomationtesting)
-The http link is - 
+The http link is - (https://github.com/Shivar14/wonderlabzAutomationtesting.git)
