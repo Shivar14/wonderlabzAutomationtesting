@@ -2,6 +2,7 @@
 
 Project is a maven project. testing is donw with Java and selenium
 
+Website used to test - (https://rahulshettyacademy.com/AutomationPractice/)
 Steps to run code locally - 
 
 Firstly, create new maven project in your chosen IDE. Select an archetype, chose the one with, Group ID = org.apache.maven.archetypes and Artifact ID = maven-archetype-quickstart. (Try to search 'archetype-quickstart' to be easier to fin the correct archetype)
